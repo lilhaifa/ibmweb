@@ -1,0 +1,56 @@
+body {
+	background-color: white;
+	color: purple;
+	font-family: sans-serif;
+}
+#introdiv {
+	background-color: purple;
+	color: white;
+    font-family: sans-serif;
+	height: 200px;
+}
+#intro-head {
+	float: left;
+}
+#intro-nav {
+	float: right;
+}
+#descrdiv {
+    height: 200px;
+}
+#descrpicdiv {
+	float: left;
+}
+#descrtextdiv {
+	float: right;
+}
+#div-skills, #div-recs {
+	overflow: hidden;
+}
+#skills-EA, #skills-html, #skills-cpp, #skills-aiml {
+	box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border: 2px solid #969696;
+  background: #d9dbda;
+  margin: 10px;
+  float: left;
+}
+	
+a:link, a:visited {
+	color: white;
+	background-color: purple;
+	text-decoration: none;
+	padding: 0px 25px;
+	text-align: center;
+}
+a:hover {
+	color: yellow;
+	background-color: purple;
+	text-decoration: none;
+	padding: 0px 25px;
+	text-align: center;
+}
