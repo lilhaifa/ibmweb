@@ -24,5 +24,4 @@ function upload_rec() {
 	newRecRef.appendChild(newBr);
 	newRecRef.innerHTML += "- " + submitter;
 	contDivRef.appendChild(newRecRef);
-	alert("Thanks for submitting the recommendation !");
 }

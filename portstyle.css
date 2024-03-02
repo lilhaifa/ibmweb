@@ -1,12 +1,12 @@
 body {
 	background-color: white;
-	color: #00308F;
-	font-family: Verdana, sans-serif;
+	color: purple;
+	font-family: sans-serif;
 }
 #introdiv {
-	background-color: #00308F;
+	background-color: purple;
 	color: white;
-    font-family: Verdana, sans-serif;
+    font-family: sans-serif;
 	height: 200px;
 }
 #intro-head {
@@ -16,18 +16,12 @@ body {
 	float: right;
 }
 #descrdiv {
-    height: 300px;
-    overflow: hidden;
+    height: 200px;
 }
 #descrpicdiv {
 	float: left;
-	width: 300px;
-	margin: 10px;
 }
 #descrtextdiv {
-	width: 1200px;
-}
-#div-bot {
 	float: right;
 }
 #div-skills, #div-recs {
@@ -48,14 +42,14 @@ body {
 	
 a:link, a:visited {
 	color: white;
-	background-color: #00308F;
+	background-color: purple;
 	text-decoration: none;
 	padding: 0px 25px;
 	text-align: center;
 }
 a:hover {
 	color: yellow;
-	background-color: #00308F;
+	background-color: purple;
 	text-decoration: none;
 	padding: 0px 25px;
 	text-align: center;
